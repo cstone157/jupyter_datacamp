@@ -1,6 +1,5 @@
 # Use the jupyter datascience-notebook
 FROM jupyter/datascience-notebook
 
-# Install the NLTK (Natural-Language-Tool-Kit)
-#RUN pip install 
-
+RUN pip install plotly
+RUN jupyter labextension install jupyterlab-plotly
