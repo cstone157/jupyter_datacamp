@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jovyan/work/courses/introduction_to_mlflow/mlruns/791576215095567909/31b4ccfaefb944d1971227929397f44e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '791576215095567909'
+lifecycle_stage: active
+run_id: 31b4ccfaefb944d1971227929397f44e
+run_name: casual-smelt-264
+run_uuid: 31b4ccfaefb944d1971227929397f44e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727749882290
+status: 1
+tags: []
+user_id: jovyan
