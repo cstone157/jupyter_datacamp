@@ -1,0 +1,30 @@
+{
+    "dataset": {
+        "label_column": "booking status",
+        "numerical_columns": [
+            "number of adults",
+            "number of children",
+            "number of weekend nights",
+            "number of week nights",
+            "car parking space",
+            "lead time",
+            "repeated",
+            "P-C",
+            "P-not-C",
+            "average price",
+            "special requests"
+        ],
+        "categorical_columns": [
+            "type of meal",
+            "room type",
+            "market segment type"
+        ]
+    },
+    "pipeline": {
+        "rfc": {
+            "max_depth": 5,
+            "random_state": 42,
+            "n_estimators": 5
+        }
+    }
+}
