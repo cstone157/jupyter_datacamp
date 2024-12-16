@@ -2,6 +2,7 @@
 .npm
 .local
 .jupyter
+.ipython
 
 .ipynb_checkpoints
 __pycache__
