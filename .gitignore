@@ -8,4 +8,7 @@
 __pycache__
 __exclude__
 
+.cache/pip/
+.yarn/
+
 mlruns
