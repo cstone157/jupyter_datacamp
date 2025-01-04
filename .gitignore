@@ -10,5 +10,7 @@ __exclude__
 
 .cache/pip/
 .yarn/
+.bash_history
 
 mlruns
+
